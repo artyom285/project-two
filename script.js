@@ -5,7 +5,7 @@ document.addEventListener("keypress", (e) => {
 		const options = {
 			method: 'GET',
 			headers: {
-				'X-RapidAPI-Key': 'f3190674e8mshe1b2879f48662c0p1fa57bjsna4b5b70d2e79',
+				'X-RapidAPI-Key': '2f145efd93mshfc9b82c44ba9917p1e43bbjsn54b96bb7e390',
 				'X-RapidAPI-Host': 'yahoo-weather5.p.rapidapi.com'
 			}
 		};

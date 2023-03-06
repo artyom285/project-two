@@ -76,6 +76,7 @@ input:focus {
 .date {
     font-style: italic;
     font-weight: 700;
+    font-size: 17px;
     margin-bottom: 40px;
     text-shadow: 2px 2px 4px rgb(0, 0, 0, 0.3);
 }
@@ -95,7 +96,7 @@ input:focus {
 .condition {
     margin-top: 40px;
     font-weight: 700;
-    font-size: 30px;
+    font-size: 26px;
     text-shadow: 2px 2px 4px rgb(0, 0, 0, 0.5);
 }
 
